@@ -1,0 +1,17 @@
+html,
+body,
+header,
+#enter {
+    height: 100%;
+}
+
+#enter {
+    background: url("https://game.gtimg.cn/images/yxzj/coming/v2/skins//image/20210610/16233047546980.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+.top-nav-collapse {
+    background-color: #24355C;
+  }
